@@ -1,0 +1,5 @@
+C:\OMProject\Updates\GenTGTs\GenTGTs\obj\Debug\ResolveAssemblyReference.cache
+C:\OMProject\Updates\GenTGTs\GenTGTs\bin\Debug\GenTGTs.exe
+C:\OMProject\Updates\GenTGTs\GenTGTs\bin\Debug\GenTGTs.pdb
+C:\OMProject\Updates\GenTGTs\GenTGTs\obj\Debug\GenTGTs.exe
+C:\OMProject\Updates\GenTGTs\GenTGTs\obj\Debug\GenTGTs.pdb
